@@ -27,7 +27,7 @@ but going forward I hope to make it compatible on Cygwin.
 I want to include hopefully all of the major algorithms and 
 some of the more advanced hybrid ones later on. Also <strike>
 I want to incorporate multithreading to speed up the test 
-runs and<strike> maybe use functors in place of the function 
+runs and</strike> maybe use functors in place of the function 
 pointers I have currently.
 
 ### Architecture
