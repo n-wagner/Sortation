@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Memory Dumps
+*.core
+*.stackdump
